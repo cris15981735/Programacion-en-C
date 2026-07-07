@@ -60,23 +60,6 @@ Este proyecto nace para ofrecer **todo el código fuente del libro** (ejemplos, 
 # Árbol de dependencias (guía de estudio)
 
 Si tienes poco tiempo o estás planificando un curso, este esquema muestra los prerrequisitos directos de cada capítulo.
-```mermaid
-flowchart TD
-    1 --> 3 --> 4 --> 5 --> 6 --> 7
-    1 --> 2
-    7 --> 8
-    7 --> 9
-    7 --> 12
-    9 --> 10
-    9 --> 11
-    11 --> 13
-    12 --> 13
-    12 --> 14
-    11 --> 14
-    13 --> 17
-    14 --> 15 --> 16
-    17 --> 18
-    18 --> 19
-    18 --> 20
-    8 ~~~ 20
-```
+
+<img width="523" height="202" alt="arbol" src="https://github.com/user-attachments/assets/ca1f6453-b1ed-4441-9ce7-c05780a8f673" />
+
