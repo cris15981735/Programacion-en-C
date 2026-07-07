@@ -4,9 +4,9 @@
 [![Licencia educativa](https://img.shields.io/badge/licencia-educativa-lightgrey.svg)](LICENSE)
 [![Estado](https://img.shields.io/badge/estado-en%20desarrollo-yellow.svg)]()
 
-Repositorio con todos los ejemplos, ejercicios resueltos y programas del libro:
+Repositorio con los ejemplos, ejercicios resueltos y programas del libro:
 
-**Programación en C: Metodología, algoritmos y estructura de datos**  
+**Programación en C**  
 *Ignacio Zahonero Martínez y Luis Joyanes Aguilar*  
 Editorial McGraw-Hill, 2ª edición, 2005  
 ISBN: 978-84-481-9844-2
