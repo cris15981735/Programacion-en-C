@@ -1,11 +1,11 @@
 # Código fuente del libro "Programación en C: Metodología, algoritmos y estructura de datos"
-Cristian Antezana
-
-Estudiante de Estructuras de Datos en la PUCV, Chile
 
 [![C](https://img.shields.io/badge/lenguaje-C-blue.svg)]()
 [![Licencia educativa](https://img.shields.io/badge/licencia-educativa-lightgrey.svg)](LICENSE)
 [![Estado](https://img.shields.io/badge/estado-en%20desarrollo-yellow.svg)]()
+
+**Cristian Antezana**, 
+Estudiante de Escuela de Ingeniería Informática en la PUCV, Chile
 
 Repositorio con los ejemplos, ejercicios resueltos y programas del libro:
 
