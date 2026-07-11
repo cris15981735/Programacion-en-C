@@ -5,7 +5,7 @@
 [![Estado](https://img.shields.io/badge/estado-en%20desarrollo-yellow.svg)]()
 
 **Cristian Antezana**, 
-Estudiante de Escuela de Ingeniería Informática en la PUCV, Chile
+Estudiante de la Escuela de Informática en la PUCV, Chile
 
 Repositorio con los ejemplos, ejercicios resueltos y programas del libro:
 
@@ -18,8 +18,8 @@ ISBN: 978-84-481-9844-2
 
 ## 📘 Motivación
 
-Al estudiar con este magnífico libro noté que no existía un repositorio público con los códigos listos para compilar y ejecutar. Muchos estudiantes copian fragmentos a mano, lo que consume tiempo y puede introducir errores.  
-Este proyecto nace para ofrecer **todo el código fuente del libro** (ejemplos, figuras y ejercicios) organizado, probado y comentado, facilitando el aprendizaje de la programación en C.
+Al estudiar con este libro noté que no existía un repositorio público con los códigos listos para compilar y ejecutar. Muchos estudiantes copian fragmentos a mano, lo que consume tiempo y puede introducir errores.  
+Este proyecto nace para ofrecer **todo el código fuente del libro** (ejemplos y ejercicios) organizado, probado y comentado, para así facilitar el aprendizaje de C.
 
 ## 🎯 Objetivos
 
@@ -27,15 +27,11 @@ Este proyecto nace para ofrecer **todo el código fuente del libro** (ejemplos, 
 - Servir como material complementario para autodidactas y cursos universitarios.
 - Ayudar a planificar el estudio con un **árbol de dependencias entre capítulos** (ver más abajo).
 - Fomentar la lectura del libro oficial: el código complementa, no sustituye la teoría.
+- En general el código también sirve para aquellos que usen la primera edición del libro, que se puede encontrar en la web.
 
 ---
 
 # 📂 Estructura del repositorio
-
-## PARTE I. Metodología de la programación
-
-1. Introducción a las computadoras y a los lenguajes de programación
-2. Metodología de la programación e introducción a la ingeniería del Software
 
 ## PARTE II. Fundamentos de algoritmos y programación en C
 
@@ -43,7 +39,7 @@ Este proyecto nace para ofrecer **todo el código fuente del libro** (ejemplos, 
 4. Operadores y expresiones
 5. Estructuras de selección: sentencias if y switch
 6. Estructuras de control: bucles
-7. Funciones
+7. [Funciones](Cap_07_Funciones)
 8. Funciones recursivas
 9. Arrays (listas y tablas)
 10. Ordenación y búsqueda
