@@ -31,6 +31,7 @@ Este proyecto nace para ofrecer **todo el código fuente del libro** (ejemplos, 
 ---
 
 # 📂 Estructura del repositorio
+
 ## PARTE I. Metodología de la programación
 
 1. Introducción a las computadoras y a los lenguajes de programación
@@ -60,9 +61,10 @@ Este proyecto nace para ofrecer **todo el código fuente del libro** (ejemplos, 
 19. Pilas y colas
 20. Árboles
 
-# Árbol de dependencias (guía de estudio)
+##  Árbol de dependencias (guía de estudio)
 
 Si tienes poco tiempo o estás planificando un curso, este esquema muestra los prerrequisitos directos de cada capítulo.
+
 
 <img width="523" height="202" alt="arbol" src="https://github.com/user-attachments/assets/ca1f6453-b1ed-4441-9ce7-c05780a8f673" />
 
